@@ -1,13 +1,161 @@
 location,bhk,sqft,furnishing,price_in_lakhs
-Pune,2,1000,Semi-Furnished,45.0
-Mumbai,1,500,Unfurnished,85.0
-Panvel,2,950,Fully-Furnished,55.0
-Panvel,1,600,Semi-Furnished,35.0
-Nagpur,3,1500,Unfurnished,60.0
-Pune,3,1600,Fully-Furnished,75.0
-Mumbai,2,800,Semi-Furnished,120.0
-Nashik,2,1100,Unfurnished,40.0
-Thane,2,900,Fully-Furnished,65.0
-Pune,1,550,Unfurnished,30.0
-Mumbai,3,1800,Fully-Furnished,250.0
-Panvel,3,1400,Semi-Furnished,80.0
+Andheri (Mumbai),2,850,Semi-Furnished,150.0
+Andheri (Mumbai),3,1200,Fully-Furnished,220.0
+Andheri (Mumbai),1,500,Unfurnished,95.0
+Bandra (Mumbai),3,1500,Fully-Furnished,450.0
+Bandra (Mumbai),2,900,Semi-Furnished,280.0
+Borivali (Mumbai),2,750,Unfurnished,110.0
+Borivali (Mumbai),1,450,Semi-Furnished,75.0
+Hinjewadi (Pune),2,900,Semi-Furnished,65.0
+Hinjewadi (Pune),3,1300,Fully-Furnished,95.0
+Hinjewadi (Pune),1,600,Unfurnished,45.0
+Wakad (Pune),2,850,Semi-Furnished,70.0
+Wakad (Pune),2,950,Fully-Furnished,80.0
+Kothrud (Pune),3,1400,Semi-Furnished,140.0
+Kothrud (Pune),1,550,Unfurnished,60.0
+New Panvel (Panvel),2,800,Unfurnished,55.0
+New Panvel (Panvel),1,500,Semi-Furnished,38.0
+Khanda Colony (Panvel),2,900,Fully-Furnished,70.0
+Khanda Colony (Panvel),3,1200,Semi-Furnished,95.0
+Vashi (Navi Mumbai),2,1000,Fully-Furnished,130.0
+Vashi (Navi Mumbai),1,600,Semi-Furnished,85.0
+Kharghar (Navi Mumbai),2,1100,Unfurnished,95.0
+Kharghar (Navi Mumbai),3,1500,Fully-Furnished,160.0
+Dharampeth (Nagpur),3,1600,Semi-Furnished,120.0
+Dharampeth (Nagpur),2,1000,Unfurnished,75.0
+Wardhaman Nagar (Nagpur),2,950,Fully-Furnished,65.0
+Indira Nagar (Nashik),2,850,Unfurnished,42.0
+Indira Nagar (Nashik),3,1200,Semi-Furnished,65.0
+College Road (Nashik),3,1400,Fully-Furnished,95.0
+Majiwada (Thane),2,900,Semi-Furnished,105.0
+Majiwada (Thane),1,550,Unfurnished,65.0
+Kolshet Road (Thane),3,1300,Fully-Furnished,155.0
+Kolshet Road (Thane),2,850,Semi-Furnished,95.0
+Boisar (Palghar),1,450,Unfurnished,18.0
+Boisar (Palghar),2,700,Semi-Furnished,28.0
+Palghar West,2,850,Semi-Furnished,40.0
+Shirwal (Satara),1,500,Unfurnished,15.0
+Shirwal (Satara),2,800,Semi-Furnished,25.0
+Khed (Ratnagiri),2,900,Unfurnished,35.0
+Saswad (Pune),1,600,Semi-Furnished,22.0
+Saswad (Pune),2,850,Fully-Furnished,38.0
+Karjat (Raigad),1,450,Unfurnished,15.0
+Karjat (Raigad),2,800,Semi-Furnished,25.0
+Khopoli (Raigad),1,500,Unfurnished,18.0
+Khopoli (Raigad),2,850,Fully-Furnished,32.0
+Alibaug (Raigad),3,1500,Fully-Furnished,120.0
+Alibaug (Raigad),2,1000,Semi-Furnished,65.0
+Igatpuri (Nashik),2,900,Fully-Furnished,45.0
+Igatpuri (Nashik),1,550,Unfurnished,20.0
+Baramati (Pune),2,950,Semi-Furnished,40.0
+Baramati (Pune),1,600,Unfurnished,25.0
+Dahanu (Palghar),1,500,Semi-Furnished,22.0
+Dahanu (Palghar),2,800,Unfurnished,30.0
+CIDCO (Aurangabad),2,900,Semi-Furnished,45.0
+CIDCO (Aurangabad),3,1200,Fully-Furnished,70.0
+Waluj (Aurangabad),1,550,Unfurnished,18.0
+Camp (Solapur),3,1400,Semi-Furnished,65.0
+Camp (Solapur),2,1000,Unfurnished,40.0
+Rajarampuri (Kolhapur),2,950,Fully-Furnished,55.0
+Rajarampuri (Kolhapur),3,1300,Semi-Furnished,80.0
+Camp (Amravati),2,900,Semi-Furnished,35.0
+Camp (Amravati),1,600,Unfurnished,20.0
+Tarabai Park (Kolhapur),3,1500,Fully-Furnished,110.0
+Shirpur (Dhule),1,500,Unfurnished,16.0
+Shirpur (Dhule),2,850,Semi-Furnished,28.0
+Shrirampur (Ahmednagar),2,900,Unfurnished,25.0
+Savedi (Ahmednagar),3,1200,Semi-Furnished,50.0
+Savedi (Ahmednagar),2,950,Fully-Furnished,40.0
+Bhusawal (Jalgaon),2,850,Semi-Furnished,28.0
+Bhusawal (Jalgaon),1,500,Unfurnished,15.0
+Khamgaon (Buldhana),2,900,Unfurnished,22.0
+Ratnagiri City,2,1000,Semi-Furnished,45.0
+Ratnagiri City,1,600,Unfurnished,25.0
+Chiplun (Ratnagiri),2,850,Fully-Furnished,35.0
+Chiplun (Ratnagiri),1,550,Semi-Furnished,20.0
+Malvan (Sindhudurg),2,950,Semi-Furnished,40.0
+Kankavli (Sindhudurg),1,500,Unfurnished,18.0
+Tuljapur (Osmanabad),1,450,Unfurnished,14.0
+Parli (Beed),2,800,Semi-Furnished,24.0
+Karad (Satara),2,900,Fully-Furnished,45.0
+Karad (Satara),3,1300,Semi-Furnished,65.0
+Ballarpur (Chandrapur),1,500,Unfurnished,15.0
+Ballarpur (Chandrapur),2,850,Semi-Furnished,26.0
+Tiroda (Gondia),1,450,Unfurnished,12.0
+Tiroda (Gondia),2,800,Semi-Furnished,22.0
+Hinganghat (Wardha),2,900,Fully-Furnished,30.0
+Hinganghat (Wardha),1,550,Semi-Furnished,18.0
+Tumsar (Bhandara),2,850,Unfurnished,24.0
+Mukhed (Nanded),1,400,Unfurnished,10.0
+Mukhed (Nanded),2,750,Semi-Furnished,20.0
+Udgir (Latur),2,950,Fully-Furnished,35.0
+Udgir (Latur),3,1200,Semi-Furnished,50.0
+Ausa (Latur),1,500,Unfurnished,14.0
+Pathri (Parbhani),1,450,Unfurnished,11.0
+Pathri (Parbhani),2,800,Semi-Furnished,21.0
+Ambad (Jalna),2,900,Semi-Furnished,25.0
+Ambad (Jalna),1,600,Unfurnished,16.0
+Kalamnuri (Hingoli),1,400,Unfurnished,10.0
+Sawantwadi (Sindhudurg),2,950,Semi-Furnished,38.0
+Sawantwadi (Sindhudurg),3,1300,Fully-Furnished,55.0
+Vengurla (Sindhudurg),1,550,Unfurnished,20.0
+Vengurla (Sindhudurg),2,850,Fully-Furnished,35.0
+Roha (Raigad),2,900,Semi-Furnished,32.0
+Roha (Raigad),1,500,Unfurnished,18.0
+Pen (Raigad),2,950,Fully-Furnished,40.0
+Pen (Raigad),3,1400,Semi-Furnished,60.0
+Mhasla (Raigad),1,450,Unfurnished,15.0
+Wada (Palghar),2,850,Semi-Furnished,28.0
+Wada (Palghar),1,500,Unfurnished,16.0
+Sangamner (Ahmednagar),2,1000,Fully-Furnished,42.0
+Sangamner (Ahmednagar),3,1300,Semi-Furnished,60.0
+Kopargaon (Ahmednagar),2,900,Unfurnished,30.0
+Kopargaon (Ahmednagar),1,600,Semi-Furnished,18.0
+Ichalkaranji (Kolhapur),2,950,Fully-Furnished,45.0
+Ichalkaranji (Kolhapur),3,1400,Semi-Furnished,65.0
+Jaysingpur (Kolhapur),1,550,Unfurnished,17.0
+Jaysingpur (Kolhapur),2,850,Semi-Furnished,28.0
+Pandharpur (Solapur),2,900,Semi-Furnished,35.0
+Pandharpur (Solapur),1,500,Unfurnished,18.0
+Barshi (Solapur),2,950,Fully-Furnished,40.0
+Barshi (Solapur),3,1300,Semi-Furnished,55.0
+Malabar Hill (Mumbai),3,2200,Fully-Furnished,950.0
+Malabar Hill (Mumbai),4,3000,Fully-Furnished,1400.0
+Colaba (Mumbai),2,1100,Semi-Furnished,350.0
+Colaba (Mumbai),1,700,Unfurnished,180.0
+Koregaon Park (Pune),3,1800,Fully-Furnished,320.0
+Koregaon Park (Pune),2,1200,Semi-Furnished,180.0
+Kalyani Nagar (Pune),3,1600,Fully-Furnished,240.0
+Kalyani Nagar (Pune),2,1100,Unfurnished,140.0
+Jalgaon City,2,950,Semi-Furnished,32.0
+Jalgaon City,3,1300,Fully-Furnished,50.0
+Jalgaon City,1,600,Unfurnished,18.0
+Amalner (Jalgaon),2,850,Semi-Furnished,24.0
+Amalner (Jalgaon),1,500,Unfurnished,14.0
+Chalisgaon (Jalgaon),2,900,Fully-Furnished,30.0
+Dhule City,2,1000,Semi-Furnished,35.0
+Dhule City,3,1400,Fully-Furnished,55.0
+Dhule City,1,550,Unfurnished,16.0
+Dondaicha (Dhule),1,450,Unfurnished,12.0
+Dondaicha (Dhule),2,800,Semi-Furnished,20.0
+Nandurbar City,2,900,Semi-Furnished,28.0
+Nandurbar City,3,1200,Fully-Furnished,42.0
+Nandurbar City,1,500,Unfurnished,15.0
+Shahada (Nandurbar),2,850,Semi-Furnished,25.0
+Shahada (Nandurbar),1,450,Unfurnished,12.0
+Navapur (Nandurbar),2,800,Unfurnished,20.0
+Shirpur (Dhule),3,1200,Fully-Furnished,40.0
+Pachora (Jalgaon),2,850,Semi-Furnished,22.0
+Pachora (Jalgaon),1,500,Unfurnished,14.0
+Bandra West (Mumbai),4,2500,Fully-Furnished,850.0
+Juhu (Mumbai),3,1900,Semi-Furnished,600.0
+Vile Parle (Mumbai),2,950,Unfurnished,220.0
+Powai (Mumbai),3,1500,Fully-Furnished,310.0
+Powai (Mumbai),2,1000,Semi-Furnished,190.0
+Magarpatta (Pune),2,1050,Semi-Furnished,95.0
+Magarpatta (Pune),3,1450,Fully-Furnished,145.0
+Baner (Pune),3,1550,Fully-Furnished,160.0
+Baner (Pune),2,950,Unfurnished,85.0
+Kharadi (Pune),2,900,Semi-Furnished,75.0
+Kharadi (Pune),1,600,Unfurnished,45.0
+Akurdi (Pune),2,850,Semi-Furnished,60.0
